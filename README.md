@@ -6,4 +6,5 @@ Interactive data for the Journées Nationales Génie Côtier - Génie Civil, Ang
 (J. Kuehn, S. Abadie, M. Delpey, and V. Roeber)
 
 --- 
-To analyze the data, just open any of the html files, which opens an interactive plot. 
+To analyze the data, just open any of the html files, which opens an interactive plot. Since GitHub has a limitation
+to the maximum file size for its online reader, you might need to download the html file first.
